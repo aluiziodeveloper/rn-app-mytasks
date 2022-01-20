@@ -8,7 +8,7 @@ describe('Igualdade', () => {
   it('uso basico - toBe', () => {
     expect(1 + 1).toBe(2);
     expect('developer').toBe('developer');
-    expect({name: 'developer'}).toBe({name: 'developer'});
+    //expect({name: 'developer'}).toBe({name: 'developer'});
   });
 });
 
