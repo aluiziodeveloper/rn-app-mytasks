@@ -15,5 +15,11 @@ module.exports = {
     "jsx",
     "json",
     "node"
-  ]
+  ],
+  collectCoverage: true,
+  collectCoverageFrom: [
+    "src/**/*.tsx",
+    "!src/**/*.spec.tsx"
+  ],
+  coverageReporters: ["lcov"]
 }
