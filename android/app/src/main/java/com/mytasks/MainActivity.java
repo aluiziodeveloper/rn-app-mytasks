@@ -1,4 +1,4 @@
-package com.mytasks;
+package com.mytasksdev;
 
 import com.facebook.react.ReactActivity;
 import org.devio.rn.splashscreen.SplashScreen; // Incluir esse import
