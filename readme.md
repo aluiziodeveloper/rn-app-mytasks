@@ -13,6 +13,8 @@ Seja muito bem-vindo e bem-vinda ao curso React Native e Typescript: Criação d
 
 Eu sou o Jorge Aluizio e estarei contigo nessa jornada de aprendizado com esse framework para criação de apps mobile para as plataformas Android e iOS.
 
+Acesse a [página do curso na Udemy](https://www.udemy.com/course/react-native-typescript/?referralCode=57DB748A99E85CBD3D6F) para conferir o conteúdo.
+
 Este repositório refere-se ao projeto MyTasks, desenvolvido durante o curso.
 
 ## Rodando a aplicação no seu PC
